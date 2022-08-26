@@ -1,0 +1,57 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adfsairam1"
+		},
+		"ls_blob_sql_connectionString": {
+			"value": ""
+		},
+		"Ls_blob_sql1_connectionString": {
+			"value": ""
+		},
+		"linkedService1_connectionString": {
+			"value": ""
+		},
+		"linkedService2_connectionString": {
+			"value": ""
+		},
+		"blob_ls_source_connectionString": {
+			"value": ""
+		},
+		"blob_ls_target_connectionString": {
+			"value": ""
+		},
+		"LS_BLOB_Source1_connectionString": {
+			"value": ""
+		},
+		"LS_SQL_DEstination_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"Sqlsourcels_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage2_connectionString": {
+			"value": ""
+		},
+		"SqlServer1_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage3_connectionString": {
+			"value": ""
+		},
+		"SqlServer2_connectionString": {
+			"value": ""
+		},
+		"AzureBlobStorage4_connectionString": {
+			"value": ""
+		}
+	}
+}
